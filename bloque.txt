@@ -1,0 +1,6 @@
+Hacer usp del sistema de control de versiones Git.
+usar GitGub para compartir y sincronizar los repositorios de Git.
+Trabajar en equipo mediante las herramientas que ofrece GitHub
+Git: Nos permite tener a mano todos los cambios que realizamos y mantener una copia segura de los mismos.
+GitHub:Nos permite arrojar repositorios de Git en la web, para poder acceder a ellos desde cualquier dispositivo
+con ellos nos perimte compartir con más personas nuestra experiencia y proyectos en los que hemos participado
